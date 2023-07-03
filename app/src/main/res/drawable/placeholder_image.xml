@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#ECECEC" /> <!-- Replace with desired color -->
+    <!-- Add any other desired attributes for the placeholder image, such as size, corner radius, etc. -->
+</shape>
